@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhayyu-shahbaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...html css
+- 👀 I’m interested in ...full stack development
+- 🌱 I’m currently learning ... javascript,react-js.
+- 💞️ I’m looking to collaborate on ...html css and js
 - 📫 How to reach me .../muhayyudin44@gmail.com
 
 <!---
